@@ -1,0 +1,7 @@
+const COLLAPSED_WIDTH = '4rem';
+const REGULAR_WIDTH = '13.75rem';
+
+export {
+  COLLAPSED_WIDTH,
+  REGULAR_WIDTH
+}
